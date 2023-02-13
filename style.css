@@ -1,0 +1,56 @@
+body
+    {
+        font-family: "PT Sans", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 100%;
+        color: black;
+        background-color: white;
+    }
+
+header
+    {
+        font-size: 2.5em;
+        font-weight: bolder; 
+        margin-bottom: 4rem;
+        padding: 2rem 0;
+        background-color: grey;
+        color: whitesmoke;
+        
+
+    }
+
+header,
+.recipe-desc,
+.button-footer
+    {
+        text-align: center;
+    }
+
+.recipe-desc,
+.button-footer
+    {
+        font-size: 1.5em;
+    }
+
+.button-footer
+    {
+        background-color: lightgrey;
+        font-weight: bold;
+        text-align: center;
+        display: block;
+        margin: auto;
+    }
+
+.recipe-img
+    {
+        height: 300;
+        width: auto;
+    }
+
+img
+    {
+    margin-right: 0px;
+    margin-left: 5vm;
+    margin-left: 30%;
+    }
+
+
